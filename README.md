@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chatify
+# Discord Lite
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
