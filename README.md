@@ -1,3 +1,9 @@
+![1](https://user-images.githubusercontent.com/71061738/177621100-785ba64a-c744-4489-b926-1c3246e75f01.png)
+
+![2](https://user-images.githubusercontent.com/71061738/177621121-9e7e0c28-8091-4671-8b4e-bd71956d7ab8.png)
+
+
+
 <div align="center">
 
 # Discord Lite
